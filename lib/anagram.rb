@@ -8,6 +8,8 @@ class Anagram
   end
   
   def match(word)
+  anagram = []
+  word.each do |word|
     
     
   end
