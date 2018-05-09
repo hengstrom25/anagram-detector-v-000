@@ -9,7 +9,7 @@ class Anagram
   
   def match(word)
   anagram = []
-  word.each do |word|
+  word.each do |words|
     
     
   end
